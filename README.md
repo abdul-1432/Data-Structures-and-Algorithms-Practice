@@ -1,6 +1,3 @@
-Sure, here's a simple template for a GitHub README with 5 DSA questions, including sample inputs and expected outputs:
-
-```markdown
 # Data Structures and Algorithms Practice
 
 This repository contains solutions to common Data Structures and Algorithms (DSA) questions. Each question includes sample input and the expected output.
