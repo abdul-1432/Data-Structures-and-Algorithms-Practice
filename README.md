@@ -54,7 +54,7 @@ def is_palindrome(s):
     return s == s[::-1]
 ```
 
-### 3. Find Maximum Number in a List
+### 3. Find the Maximum Number in a List
 
 **Problem:**
 
@@ -83,7 +83,7 @@ def find_max(nums):
 
 **Problem:**
 
-Write a function to generate the Fibonacci series up to a given number of terms.
+Write a function to generate the Fibonacci series for a given number of terms.
 
 **Sample Input:**
 
@@ -135,7 +135,4 @@ def is_prime(num):
         if num % i == 0:
             return False
     return True
-```
-
-Feel free to use and modify these solutions for your practice!
 ```
