@@ -139,5 +139,3 @@ def is_prime(num):
 
 Feel free to use and modify these solutions for your practice!
 ```
-
-Feel free to copy and modify this template according to your needs.
